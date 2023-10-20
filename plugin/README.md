@@ -22,7 +22,10 @@
 
 # Setup Remote Dashboard 
 
-Open your Fl-edge-GUI on remote terminal device, and follow these steps :
+If you haven't installed fledge-gui yet, 
+[Install fledge-gui](https://github.com/AutusKernel/Fledge-kv260/blob/main/plugin/fledge_gui.md)
+
+Then, open your fledge-gui on remote terminal device, and follow these steps :
 
 ## 1. Enter South plugin dashboard
 **![](https://lh7-us.googleusercontent.com/HpVyOaKWWTKui30G4yP-1atNJ5ENow8EnyZd7rLcU5mGIUeIfqIT-qTGU6ryCfzqM_3GBtNqOSDCTDmr3AjHDjf2cPLwnKCpT3qYi8D_hwj2yBuPQSOQ6isvkTBJAUUY6WIZvXMYEMzcY5V6JrLIt8c)**
