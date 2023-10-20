@@ -15,3 +15,6 @@
  
 5. Now, we could open web browser and navigate to   
  `http://localhost:4200/`
+
+6. You should see the gui configuration screen below.
+   
