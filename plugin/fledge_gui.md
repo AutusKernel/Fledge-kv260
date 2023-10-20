@@ -17,4 +17,6 @@
  `http://localhost:4200/`
 
 6. You should see the gui configuration screen below.
-   
+ ![enter image description here](https://drive.google.com/uc?id=1WuPChGjMZw5trbh__kaPm9xaESEzZZZ4)
+
+7. Hit the blue button to "Set the URL & Restart", after modifying the host ip address
