@@ -1,5 +1,7 @@
 # Install Fledge-GUI 
 
+## Base on source
+
 1. Update yarn  
      `sudo npm i -g yarn`
 
@@ -20,3 +22,11 @@
  ![enter image description here](https://drive.google.com/uc?id=1WuPChGjMZw5trbh__kaPm9xaESEzZZZ4)
 
 7. Hit the blue button to "Set the URL & Restart", after modifying the host ip address
+
+8. Using curl get to test RPC :  
+    `curl -sX GET http://fledge-ip:8081/fledge/ping`
+
+
+## Base on .deb package
+
+`sudo DEBIAN_FRONTEND=noninteractive apt -y install fledge fledge-gui`
