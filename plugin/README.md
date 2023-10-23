@@ -1,5 +1,14 @@
+# Update history  
+Author : Kenny  
+update : 2023/10/23  
+
 # Setup Fledge South-Plugin
 
+**Hardware**  
+
+kv26-smk QEMU VM: RAM >=1GB CPU >=2 DISK >=16GB
+
+## Get Resource and Install  
  **1. Install RPM**  
  `sudo dnf localinstall fledge-2.1.0-1.aarch64.rpm` 
 
