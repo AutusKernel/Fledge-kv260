@@ -1,6 +1,19 @@
+# Update history  
+Author : Kenny  
+update : 2023/10/23  
+
 # Install Fledge-GUI 
 
-## Base on source
+## Method 1. Base on source
+
+## Hardware    
+MacBook Pro  
+2.3 GHz Dual-Intel Core i5  
+8 GB 2133 MHz LPDDR3  
+MacOS 13.2.1    
+
+
+## Get Resource and Install
 
 1. Update yarn  
      `sudo npm i -g yarn`
@@ -27,6 +40,12 @@
     `curl -sX GET http://fledge-ip:8081/fledge/ping`
 
 
-## Base on .deb package
+## Method 2. Base on .deb package  
+## Hardware
+Asus E203 
+Intel N4000  Dual-core
+4 GB LPDDR4  
+UBUNTU 20.04    
 
+## Get Resource and Install
 `sudo DEBIAN_FRONTEND=noninteractive apt -y install fledge fledge-gui`
