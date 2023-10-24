@@ -10,7 +10,7 @@ kv26-smk QEMU VM: RAM >=1GB CPU >=2 DISK >=16GB
 
 ## Get Resource and Install  
  **1. Get fledge-2.1.0-1.aarch64.rpm and  Install**  
- `wget https://github.com/AutusKernel/Fledge-kv260/blob/main/plugin/fledge-2.1.0-1.aarch64.rpm`  
+ `wget https://github.com/AutusKernel/Fledge-kv260/blob/main/fledge-2.1.0-1.aarch64.rpm`  
  `sudo dnf localinstall fledge-2.1.0-1.aarch64.rpm` 
 
 **2. Make a work directory**  
