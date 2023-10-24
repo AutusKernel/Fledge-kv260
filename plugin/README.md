@@ -33,7 +33,7 @@ kv26-smk QEMU VM: RAM >=1GB CPU >=2 DISK >=16GB
 # Setup Remote Dashboard 
 
 If you haven't installed fledge-gui yet, 
-[Install fledge-gui](https://github.com/AutusKernel/Fledge-kv260/blob/main/plugin/fledge_gui.md)
+[Install fledge-gui](https://github.com/AutusKernel/Fledge-kv260/blob/main/fledge_gui/fledge_gui.md)
 
 Then, open your fledge-gui on remote terminal device, and follow these steps :
 
